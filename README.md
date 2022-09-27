@@ -1,4 +1,5 @@
-# ohmyfood/ Projet n°3 du parcours de Développeeur Web d'Openclassrooms : Dynamisez une page web avec des animations CSS. avec animation
+# ohmyfood 
+<h1>Projet n°3 du parcours de Développeeur Web d'Openclassrooms : Dynamisez une page web avec des animations CSS. avec animation <h1>
 
 
 
