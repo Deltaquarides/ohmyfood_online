@@ -60,7 +60,7 @@ survol sur desktop au lieu du clic.</li>
 <li>Tertiaire: #99E2D0</li>
 </ul>
 <h2>Tester le projet</h2>
-- [ ]  [lien site statique github](https://deltaquarides.github.io/ohmyfood_online/)
+ [lien site statique github](https://deltaquarides.github.io/ohmyfood_online/)
 
 <p>pour cloner le projet: https://gitlab.com/ohmyfood1/ohmyfood.git </p>
 
