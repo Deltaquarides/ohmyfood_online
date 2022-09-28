@@ -5,8 +5,8 @@
 Ohmyfood, est une start-up de commande de repas en ligne. En tant qu'un des développeur web de l'entreprise, je me voit confié la création du site web.  
 
 <h2>Objectifs</h2>
-+ Développer un site proposant le menu de 4 grands restaurants parisiens.<br>
-+ Permettre la réservation en ligne et la composition de menus.<br>
+<li> Développer un site proposant le menu de 4 grands restaurants parisiens.</li>
+<li> Permettre la réservation en ligne et la composition de menus.</li>
 
 <h2>Structure du site web</h2>
  Le site web doit contenir:    
