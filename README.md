@@ -12,10 +12,10 @@ Ohmyfood, est une start-up de commande de repas en ligne. En tant qu'un des dév
 
 <h2>Structure du site web.</h2>
  <h3>Le site web doit contenir:</h3>
- <ol>   
- <li> Une page d'accueil contenant les 4 restaurants.</ol>
- <li> les pages des menus.</ol>   
- </ol> 
+ <ul>   
+ <li> Une page d'accueil contenant les 4 restaurants.</li>
+ <li> les pages des menus.</li>   
+ </ul> 
 
 <h2>Animations et charte graphique du site.</h2>
 <h3>Animations</h3>
