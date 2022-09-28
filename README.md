@@ -1,19 +1,24 @@
 # ohmyfood 
-<h1>Projet n°3 du parcours de Développeur Web d'Openclassrooms : Dynamisez une page web avec des animations CSS avec animation <h1>
+<h1>Projet n°3 du parcours de Développeur Web d'Openclassrooms : Dynamisez une page web avec des animations CSS <h1>
 
 <h2>Scénario</h2>
 Ohmyfood, est une start-up de commande de repas en ligne. En tant qu'un des développeur web de l'entreprise, je me voit confié la création du site web.  
 
 <h2>Objectifs</h2>
+<ul>
 <li> Développer un site proposant le menu de 4 grands restaurants parisiens.</li>
 <li> Permettre la réservation en ligne et la composition de menus.</li>
+</ul> 
 
 <h2>Structure du site web</h2>
- Le site web doit contenir:    
- 1. Une page d'accueil contenant les 4 restaurants.    
- 2. les pasges des menus.    
+ <h3>Le site web doit contenir:</h3>
+ <ul>   
+ <ol> Une page d'accueil contenant les 4 restaurants.</ol>
+ <ol> les pages des menus.</ol>   
+ </ul> 
 
-<h2></h2>
+<h2>Animations et règles à respecter</h2>
+
 
 
 ## Getting started
