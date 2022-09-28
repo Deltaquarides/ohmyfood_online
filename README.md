@@ -47,7 +47,7 @@ bouton "J’aime" en forme de cœur est présent sur la maquette. Au clic, il de
 remplir progressivement. Pour cette première version, l’effet peut être apparaître au
 survol sur desktop au lieu du clic.</li>
  </ul>
-<h3> Charte graphique du site.</h3>
+<h3> Charte graphique du site:</h3>
 <strong>Polices:</strong>
 <ul>
 <li>Logo et titres: Shrikhand</li>
@@ -59,7 +59,11 @@ survol sur desktop au lieu du clic.</li>
 <li>Secondaire: #FF79DA </li>
 <li>Tertiaire: #99E2D0</li>
 </ul>
-
+<h2>Tester le projet</h2>
+<p>lien site statique github
+<a href=" https://deltaquarides.github.io/ohmyfood_online/"></a>
+</p>
+<p>pour cloner le projet: https://gitlab.com/ohmyfood1/ohmyfood.git </p>
 
 ## Getting started
 
