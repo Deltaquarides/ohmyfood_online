@@ -6,7 +6,7 @@ Ohmyfood, est une start-up de commande de repas en ligne. En tant qu'un des dév
 
 <h2>Objectifs</h2>
 <ul>
-<li> Développer un site proposant le menu de 4 grands restaurants parisiens.</li>
+<li> Développer un site proposant le menu de 4 grands restaurants Parisiens.</li>
 <li> Permettre la réservation en ligne et la composition de menus.</li>
 </ul> 
 
