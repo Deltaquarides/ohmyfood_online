@@ -21,8 +21,7 @@ Ohmyfood, est une start-up de commande de repas en ligne. En tant qu'un des dév
 <h3>Animations</h3>
 <strong>Loader Spinner</strong>
 <ul>   
- <li>Quand l’application aura plus de menus, un “loading spinner” sera nécessaire.Il devra apparaître pendant 1 à
-3 secondes quand on arrive sur la page d'accueil, couvrir l'intégralité de l'écran, et
+ <li>Quand l’application aura plus de menus, un “loading spinner” sera nécessaire.Il devra apparaître pendant 1 à 3 secondes quand on arrive sur la page d'accueil, couvrir l'intégralité de l'écran, et
 utiliser les animations CSS (pas de librairie). Le design de ce loader n’est pas défini,
 toute proposition est donc la bienvenue tant qu’elle est cohérente avec la charte
 graphique du site.</li> 
