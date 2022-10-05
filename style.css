@@ -31,7 +31,7 @@ a {
     display: flex;
     justify-content:center;
     padding-top: 300px;
-    animation: disappear 1000ms 15s forwards;
+    animation: disappear 1000ms 3s forwards;
     transform-origin: top;
     z-index: 5;
     /* background-color: #353535; */
